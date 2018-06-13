@@ -162,7 +162,7 @@ Table of contents:
 * [MoonStorm/trNgGrid](https://github.com/MoonStorm/trNgGrid) - A feature rich AngularJS grid using standard HTML tables.
 * [ceolter/ag-grid](https://github.com/ceolter/ag-grid) - Advanced Datagrid for Pure Javascript/AngularJS 1.x/AngularJS 2/Web Components.
 * [mattiash/angular-tablesort](https://github.com/mattiash/angular-tablesort) - Sort AngularJS tables easily.
-* [mattiash/ngHandsontable](https://github.com/handsontable/ngHandsontable) - the AngularJS directive for Handsontable.
+* [handsontable/ngHandsontable](https://github.com/handsontable/ngHandsontable) - the AngularJS directive for Handsontable.
 
 ## Developer
 * [angular/protractor](https://github.com/angular/protractor) - E2E test framework for AngularJS apps.
